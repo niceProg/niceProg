@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wisnu Yumna Yudhanta</h1>
 <h3 align="center">I like frontend developer, my level is now in the intermediate realm.</h3>
-<img align="right" alt="Coding" width="400" src="/git/prog-gif.gif">
+<img align="right" alt="Coding" width="400" src="prog-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niceprog&label=Profile%20views&color=0e75b6&style=flat" alt="niceprog" /> </p>
 
