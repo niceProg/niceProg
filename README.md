@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Wisnu Yumna Yudhanta</h1>
 <h3 align="center">I like frontend developer, my level is now in the intermediate realm.</h3>
 <div align="center">
-    <img alt="Coding" width="100%" src="prog-gif.gif">
+    <img alt="Coding" width="100%" height="200" src="prog-gif.gif">
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niceprog&label=Profile%20views&color=0e75b6&style=flat" alt="niceprog" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niceprog" alt="niceprog" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next.js**
-
-- 💬 Ask me about **Python, DigitalOcean**
-
-- 📫 How to reach me **wisnu.yudhanta@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+<div align="center">
+    <p>🌱 I’m currently learning <strong>React, Next.js</strong></p>
+    <p>💬 Ask me about <strong>Python, DigitalOcean</strong></p>
+    <p>📫 How to reach me <strong>wisnu.yudhanta@gmail.com</strong></p>
+    <p>⚡ Fun fact <strong>I am Funny</strong></p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
