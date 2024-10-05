@@ -6,8 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niceprog&label=Profile%20views&color=0e75b6&style=flat" alt="niceprog" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niceprog" alt="niceprog" /></a> </p>
-
 <div align="center">
     <p>🌱 I’m currently learning <strong>React, Next.js</strong></p>
     <p>💬 Ask me about <strong>Python, DigitalOcean</strong></p>
